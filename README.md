@@ -67,7 +67,7 @@ Para ejecutar el proyecto en ambiente de desarrollo o prueba deberá ejecutar, e
 npm run dev
 ```
 
-Esto compilara el código de TypeScript a JavaScript y ejecutara un servido en la dirección [http://localhost:5555](http://localhost:5555) en el cual se podrán hacer las prueba
+Esto compilara el código de JavaScript y se ejecutara un servido en la dirección [http://localhost:5555](http://localhost:5555) en el cual se podrán hacer las prueba
 
 ## Autores
 
